@@ -62812,3 +62812,441 @@ Processing by Api::V1::CommentsController#index as JSON
   [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
   Rendered api/v1/comments/index.json.jbuilder (1.1ms)
 Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:15 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.2ms)
+Completed 200 OK in 8ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:16 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:17 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.2ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:19 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:22 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.0ms)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:23 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.0ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:26 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:27 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:30 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.5ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:31 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.4ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:34 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.0ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:48 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.8ms)
+Completed 200 OK in 13ms (Views: 10.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:49 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.3ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:51 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.3ms)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2016-02-15 19:55:51 +0900
+Processing by CommentsController#index as HTML
+  Rendered comments/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 35ms (Views: 34.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/development/react.self-fede65fd9a4acabec5ef1256b80983a6e6e8a68dec5eca279f6923ca213f7228.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/react_ujs.self-06684ab54101bce1b455802d71af1f7157c37b116c4b0c40b3c3b3dd8aee150d.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/components/comment_box.self-ff0e5ce303dcc37405796965aecd5124c49154a80118268871d44227d892cb22.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/components.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/marked.self-d5439e0eb94f719b9cd1f974aad01c015b89b071dd66fb546bff95d22bc602ec.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/comments.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/assets/application.self-a1a74291c4c48f2f663a025ffa678498d6448b849a2d74c0ca25e39ee192c0a7.js?body=1" for ::1 at 2016-02-15 19:55:52 +0900
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:52 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.2ms)
+Completed 200 OK in 8ms (Views: 6.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:54 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (0.8ms)
+Completed 200 OK in 6ms (Views: 4.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:56 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (0.8ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:55:58 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:00 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.9ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:02 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.2ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:04 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:07 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:09 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.4ms)
+Completed 200 OK in 7ms (Views: 5.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:11 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:12 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:15 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.6ms)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:16 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (0.8ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:18 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.0ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:20 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.0ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:22 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.6ms)
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:24 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (4.4ms)
+Completed 200 OK in 14ms (Views: 10.6ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:26 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.5ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:28 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/" for ::1 at 2016-02-15 19:56:28 +0900
+Processing by CommentsController#index as HTML
+  Rendered comments/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 1145ms (Views: 1144.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/development/react.self-fede65fd9a4acabec5ef1256b80983a6e6e8a68dec5eca279f6923ca213f7228.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/components/comment_box.self-36f688e2f3320df62722ed0a1d676875bf0c99821310dbfaf0ffffee3a8efe79.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/react_ujs.self-06684ab54101bce1b455802d71af1f7157c37b116c4b0c40b3c3b3dd8aee150d.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/components.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/comments.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/application.self-a1a74291c4c48f2f663a025ffa678498d6448b849a2d74c0ca25e39ee192c0a7.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/assets/marked.self-d5439e0eb94f719b9cd1f974aad01c015b89b071dd66fb546bff95d22bc602ec.js?body=1" for ::1 at 2016-02-15 19:56:30 +0900
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:30 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.9ms)
+Completed 200 OK in 20ms (Views: 7.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:32 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:34 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.1ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.4ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:36 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.3ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:38 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (0.8ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:40 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.3ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:42 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.0ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:44 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (0.8ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:46 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.7ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:48 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (0.9ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:50 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.0ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:52 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.7ms)
+Completed 200 OK in 12ms (Views: 10.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:54 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (1.0ms)
+Completed 200 OK in 7ms (Views: 5.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:56 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.1ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.0ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.1ms)
+
+
+Started POST "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:57 +0900
+Processing by Api::V1::CommentsController#create as JSON
+  Parameters: {"author"=>"栄養士しょせまる", "text"=>"こちらコレステロール高めですね"}
+Unpermitted parameter: format
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "comments" ("author", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["author", "栄養士しょせまる"], ["text", "こちらコレステロール高めですね"], ["created_at", "2016-02-15 10:56:57.699163"], ["updated_at", "2016-02-15 10:56:57.699163"]]
+  [1m[36m (8.7ms)[0m  [1mcommit transaction[0m
+  Rendered api/v1/comments/show.json.jbuilder (0.2ms)
+Completed 201 Created in 22ms (Views: 6.5ms | ActiveRecord: 9.5ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:56:58 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[35mComment Load (0.2ms)[0m  SELECT "comments".* FROM "comments"
+  Rendered api/v1/comments/index.json.jbuilder (1.5ms)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/comments.json" for ::1 at 2016-02-15 19:57:00 +0900
+Processing by Api::V1::CommentsController#index as JSON
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments"[0m
+  Rendered api/v1/comments/index.json.jbuilder (2.4ms)
+Completed 200 OK in 12ms (Views: 9.9ms | ActiveRecord: 0.3ms)
