@@ -1,1 +1,1 @@
-json.data(@data) { |d| json.extract!(d, :author, :text) }
+<%= react_component('CommentBox', url: '/api/v1/comments.json', pollInterval: 2000) %>
